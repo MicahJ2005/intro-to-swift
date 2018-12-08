@@ -20,9 +20,18 @@
 
 ## Swift Learning Plan
 - Spend 60-120 minutes daily (minimum), 3 days a week (minimum), learning about Swift (following the plan below)
-    * Week 1: Understand how ViewController and Storyboard work together. Try various features. Assess/review learnings and adjust next week accordingly. Resources: Online tutorials and Apple Docs
-    * Week 2: Learn, Write, and test ViewController functions (click functions, basic screen navigation). Assess/review learnings and adjust next week accordingly. Resources: Online tutorials and Apple Docs.
-    * Week 3: Research how servers and databases work with Swift. Test various options. Assess/review learnings and adjust next week accordingly. Resources: Online tutorials, Apple Docs, Database Docs. 
+    * Week 1: Understand how ViewController and Storyboard work together. Try various features. Assess/review learnings and adjust next week accordingly. 
+    Resources: Online tutorials and Apple Docs 
+    Estimated Time: 8hrs 
+    * Week 2: Learn, Write, and test ViewController functions (click functions, basic screen navigation). Assess/review learnings and adjust next week accordingly. 
+    Resources: Online tutorials and Apple Docs. 
+    Estimated Time: 8-10hrs 
+    * Week 3: Research how servers and databases work with Swift. Test various options. Assess/review learnings and adjust next week accordingly. 
+    Resources: Online tutorials, Apple Docs, Database Docs. 
+    Estimated Time: 8hrs 
     * Week 4: Work on technologies needed to build F/TforME (Prime Solo Project) in Swift and research deploying product in the Apple Store. 
+    Estimated Time: 6-8hrs 
     * Week 5-7: Build F/TforME for Apple store. Research how SwiftTests work.
+    Estimated Time: 60-80hrs 
     * Week 8: Clean up code, add any final functionality, deploy Beta to Apple Store. 
+    Estimated Time: 6-8hrs 
